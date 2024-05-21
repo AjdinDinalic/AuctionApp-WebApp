@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    font-family: 'Lato';
+}
+
+#header{
+    color: white;
+    font-weight:800;
+}
+#footer{
+    color:white;
+    font-weight:800;
+}
